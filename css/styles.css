@@ -176,6 +176,11 @@ input[type="submit"]{
 	font-size: 14px;
 }
 
+.checkbox{
+	margin: 0 0 0 138px;
+	width: 258px;
+}
+
 p{
 	margin: 21px auto;
 	width: 330px;
